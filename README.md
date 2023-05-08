@@ -4,7 +4,7 @@ This repository is mean to be used to explain how you would transition from a ty
 
 ## Setup Direktiv
 
-1. Clone the repository https://github.com/wwonigkeit/direktiv-python-demo into a namespace in your Direktiv instance (shown below) with the main branch:
+1. Clone the repository https://github.com/direktiv-workflows/python-demo into a namespace in your Direktiv instance (shown below) with the main branch:
 
 ![alt text](images/namespace-config.png)
 
